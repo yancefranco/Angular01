@@ -32,7 +32,6 @@
       "@modules/*":["app/modules/*"],
       "@data/*":["app/data/*"],
       "@layout":["app/layout/*"]
-      
 
     }
   },
